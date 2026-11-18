@@ -1,0 +1,1 @@
+Research and implementation of various AI methods. High-level python alongside matplotlib, sklearn, numpy and pandas to explore data science methods and plots, integrating machine learning principles with real datasets and preprocessing pipelines.
